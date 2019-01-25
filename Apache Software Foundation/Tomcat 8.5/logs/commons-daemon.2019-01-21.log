@@ -1,0 +1,32 @@
+[2019-01-21 11:26:51] [info]  [80436] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2019-01-21 11:26:51] [info]  [80436] Service Tomcat8 name Apache Tomcat 8.5 Tomcat8
+[2019-01-21 11:26:51] [info]  [80436] Service 'Tomcat8' installed
+[2019-01-21 11:26:51] [info]  [80436] Commons Daemon procrun finished
+[2019-01-21 11:26:53] [info]  [55152] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2019-01-21 11:26:53] [info]  [55152] Updating service...
+[2019-01-21 11:26:53] [info]  [55152] Service 'Tomcat8' updated
+[2019-01-21 11:26:53] [info]  [55152] Update service finished.
+[2019-01-21 11:26:53] [info]  [55152] Commons Daemon procrun finished
+[2019-01-21 11:26:54] [info]  [79384] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2019-01-21 11:26:54] [info]  [79384] Updating service...
+[2019-01-21 11:26:54] [info]  [79384] Service 'Tomcat8' updated
+[2019-01-21 11:26:54] [info]  [79384] Update service finished.
+[2019-01-21 11:26:54] [info]  [79384] Commons Daemon procrun finished
+[2019-01-21 11:26:54] [info]  [47840] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2019-01-21 11:26:54] [info]  [47840] Updating service...
+[2019-01-21 11:26:54] [info]  [47840] Service 'Tomcat8' updated
+[2019-01-21 11:26:54] [info]  [47840] Update service finished.
+[2019-01-21 11:26:54] [info]  [47840] Commons Daemon procrun finished
+[2019-01-21 11:26:55] [info]  [118352] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2019-01-21 11:26:55] [info]  [118352] Updating service...
+[2019-01-21 11:26:55] [info]  [118352] Service 'Tomcat8' updated
+[2019-01-21 11:26:55] [info]  [118352] Update service finished.
+[2019-01-21 11:26:55] [info]  [118352] Commons Daemon procrun finished
+[2019-01-21 11:28:12] [info]  [88560] Commons Daemon procrun (1.1.0.0 64-bit) started
+[2019-01-21 11:28:12] [info]  [88560] Running 'Tomcat8' Service...
+[2019-01-21 11:28:12] [info]  [51512] Starting service...
+[2019-01-21 11:28:13] [info]  [51512] Service started in 1119 ms.
+[2019-01-22 00:25:37] [info]  [92012] Stopping service...
+[2019-01-22 00:25:38] [info]  [92012] Service stop thread completed.
+[2019-01-22 00:25:39] [info]  [88560] Run service finished.
+[2019-01-22 00:25:39] [info]  [88560] Commons Daemon procrun finished
